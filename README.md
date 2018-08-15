@@ -8,6 +8,7 @@ If you plan to use this dataset for your research or other purposes, please cite
 
 * Del Gallego, N., & Ilao, J. (2018). Improving multiple-image super-resolution for mobile devices through image alignment
 selection. Journal of WSCG 2018. Vol 26 No. 2. (p. 122 - 131).
+
 BIBTEX:
 ```
 @ARTICLE{delgallego_2018,
